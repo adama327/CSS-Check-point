@@ -1,0 +1,97 @@
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(42, 42, 42);
+  width: 98%;
+  border-left: 30px solid red ;
+  position: fixed;
+  top: 0;
+}
+li{
+  float: right;
+  
+}
+li a{
+ display: block;
+  text-decoration: none;
+  padding:19px 24px;
+  text-align: center;
+  color: white;
+  font-size: 17px;
+}
+li a:hover{
+  background-color: #111;
+}
+body{
+  background-color: #333;
+}
+.exp{
+  padding-top: 11pc;
+  color: white;
+  padding-left: 3%;
+
+}
+td img{
+  float: right;
+  opacity: 70%;
+border-image: repeat;
+padding-left: 6pc;}
+
+.exp td h2{
+font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+text-align: center;
+font-style: italic bold;
+}
+.exp td h3{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-style: normal oblique;
+}
+
+article{
+  text-align: center;
+  padding-top:2%;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+.dev{
+  padding-top: 3%;
+}
+.tab{
+  padding-top: 10%;
+}
+#a{
+   color: red;
+   font-size: 16px;
+}
+#b{
+  font-size: 32px;
+  font-weight: bolder;
+  color:white;
+}
+#c{
+  font-size: 13px;
+  color: white;
+}
+
+#d ,#g,#h,#i,#e,#f{
+  border-left: 5px solid red;
+  color: white;
+}
+.tr td {
+  padding-top: 3%;
+  ;
+}
+.trr td{
+    padding-top: 3%;
+    
+}
+footer{
+  float: right;
+  padding-top: 10%;
+  color: white;
+}
+footer a, h3{
+  padding-left:10% ;
+}
